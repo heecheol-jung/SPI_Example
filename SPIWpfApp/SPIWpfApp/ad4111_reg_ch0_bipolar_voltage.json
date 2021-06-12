@@ -1,0 +1,320 @@
+{
+  "Generic": "AD4111_Regmap",
+  "Registers": [
+    {
+      "Address": "0x0",
+      "Name": "STATUS",
+      "Value": "0xF"
+    },
+    {
+      "Address": "0x1",
+      "Name": "ADCMODE",
+      "Value": "0x8000"
+    },
+    {
+      "Address": "0x2",
+      "Name": "IFMODE",
+      "Value": "0x40"
+    },
+    {
+      "Address": "0x3",
+      "Name": "REGCHECK",
+      "Value": "0x0"
+    },
+    {
+      "Address": "0x4",
+      "Name": "DATA",
+      "Value": "0x9840B8"
+    },
+    {
+      "Address": "0x6",
+      "Name": "GPIOCON",
+      "Value": "0x1803"
+    },
+    {
+      "Address": "0x7",
+      "Name": "ID",
+      "Value": "0x30DE"
+    },
+    {
+      "Address": "0x8",
+      "Name": "Fuse0",
+      "Value": "0x0"
+    },
+    {
+      "Address": "0x9",
+      "Name": "Fuse1",
+      "Value": "0x0"
+    },
+    {
+      "Address": "0xA",
+      "Name": "Fuse2",
+      "Value": "0x0"
+    },
+    {
+      "Address": "0xB",
+      "Name": "Fuse3",
+      "Value": "0x0"
+    },
+    {
+      "Address": "0xC",
+      "Name": "Fuse4",
+      "Value": "0x0"
+    },
+    {
+      "Address": "0xD",
+      "Name": "Fuse5",
+      "Value": "0x0"
+    },
+    {
+      "Address": "0xE",
+      "Name": "Fuse6",
+      "Value": "0x0"
+    },
+    {
+      "Address": "0xF",
+      "Name": "Fuse7",
+      "Value": "0x0"
+    },
+    {
+      "Address": "0x10",
+      "Name": "CH0",
+      "Value": "0x8010"
+    },
+    {
+      "Address": "0x11",
+      "Name": "CH1",
+      "Value": "0x1"
+    },
+    {
+      "Address": "0x12",
+      "Name": "CH2",
+      "Value": "0x1"
+    },
+    {
+      "Address": "0x13",
+      "Name": "CH3",
+      "Value": "0x1"
+    },
+    {
+      "Address": "0x14",
+      "Name": "CH4",
+      "Value": "0x1"
+    },
+    {
+      "Address": "0x15",
+      "Name": "CH5",
+      "Value": "0x1"
+    },
+    {
+      "Address": "0x16",
+      "Name": "CH6",
+      "Value": "0x1"
+    },
+    {
+      "Address": "0x17",
+      "Name": "CH7",
+      "Value": "0x1"
+    },
+    {
+      "Address": "0x18",
+      "Name": "CH8",
+      "Value": "0x1"
+    },
+    {
+      "Address": "0x19",
+      "Name": "CH9",
+      "Value": "0x1"
+    },
+    {
+      "Address": "0x1A",
+      "Name": "CH10",
+      "Value": "0x1"
+    },
+    {
+      "Address": "0x1B",
+      "Name": "CH11",
+      "Value": "0x1"
+    },
+    {
+      "Address": "0x1C",
+      "Name": "CH12",
+      "Value": "0x1"
+    },
+    {
+      "Address": "0x1D",
+      "Name": "CH13",
+      "Value": "0x1"
+    },
+    {
+      "Address": "0x1E",
+      "Name": "CH14",
+      "Value": "0x1"
+    },
+    {
+      "Address": "0x1F",
+      "Name": "CH15",
+      "Value": "0x8010"
+    },
+    {
+      "Address": "0x20",
+      "Name": "SETUPCON0",
+      "Value": "0x1320"
+    },
+    {
+      "Address": "0x21",
+      "Name": "SETUPCON1",
+      "Value": "0x1020"
+    },
+    {
+      "Address": "0x22",
+      "Name": "SETUPCON2",
+      "Value": "0x1320"
+    },
+    {
+      "Address": "0x23",
+      "Name": "SETUPCON3",
+      "Value": "0x1320"
+    },
+    {
+      "Address": "0x24",
+      "Name": "SETUPCON4",
+      "Value": "0x1320"
+    },
+    {
+      "Address": "0x25",
+      "Name": "SETUPCON5",
+      "Value": "0x1320"
+    },
+    {
+      "Address": "0x26",
+      "Name": "SETUPCON6",
+      "Value": "0x1320"
+    },
+    {
+      "Address": "0x27",
+      "Name": "SETUPCON7",
+      "Value": "0x1320"
+    },
+    {
+      "Address": "0x28",
+      "Name": "FILTCON0",
+      "Value": "0x505"
+    },
+    {
+      "Address": "0x29",
+      "Name": "FILTCON1",
+      "Value": "0x505"
+    },
+    {
+      "Address": "0x2A",
+      "Name": "FILTCON2",
+      "Value": "0x505"
+    },
+    {
+      "Address": "0x2B",
+      "Name": "FILTCON3",
+      "Value": "0x505"
+    },
+    {
+      "Address": "0x2C",
+      "Name": "FILTCON4",
+      "Value": "0x505"
+    },
+    {
+      "Address": "0x2D",
+      "Name": "FILTCON5",
+      "Value": "0x505"
+    },
+    {
+      "Address": "0x2E",
+      "Name": "FILTCON6",
+      "Value": "0x505"
+    },
+    {
+      "Address": "0x2F",
+      "Name": "FILTCON7",
+      "Value": "0x505"
+    },
+    {
+      "Address": "0x30",
+      "Name": "OFFSET0",
+      "Value": "0x800000"
+    },
+    {
+      "Address": "0x31",
+      "Name": "OFFSET1",
+      "Value": "0x800000"
+    },
+    {
+      "Address": "0x32",
+      "Name": "OFFSET2",
+      "Value": "0x800000"
+    },
+    {
+      "Address": "0x33",
+      "Name": "OFFSET3",
+      "Value": "0x800000"
+    },
+    {
+      "Address": "0x34",
+      "Name": "OFFSET4",
+      "Value": "0x800000"
+    },
+    {
+      "Address": "0x35",
+      "Name": "OFFSET5",
+      "Value": "0x800000"
+    },
+    {
+      "Address": "0x36",
+      "Name": "OFFSET6",
+      "Value": "0x800000"
+    },
+    {
+      "Address": "0x37",
+      "Name": "OFFSET7",
+      "Value": "0x800000"
+    },
+    {
+      "Address": "0x38",
+      "Name": "GAIN0",
+      "Value": "0x55567C"
+    },
+    {
+      "Address": "0x39",
+      "Name": "GAIN1",
+      "Value": "0x590B00"
+    },
+    {
+      "Address": "0x3A",
+      "Name": "GAIN2",
+      "Value": "0x55567C"
+    },
+    {
+      "Address": "0x3B",
+      "Name": "GAIN3",
+      "Value": "0x55567C"
+    },
+    {
+      "Address": "0x3C",
+      "Name": "GAIN4",
+      "Value": "0x55567C"
+    },
+    {
+      "Address": "0x3D",
+      "Name": "GAIN5",
+      "Value": "0x55567C"
+    },
+    {
+      "Address": "0x3E",
+      "Name": "GAIN6",
+      "Value": "0x55567C"
+    },
+    {
+      "Address": "0x3F",
+      "Name": "GAIN7",
+      "Value": "0x55567C"
+    }
+  ]
+}

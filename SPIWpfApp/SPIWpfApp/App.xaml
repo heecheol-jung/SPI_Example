@@ -1,0 +1,12 @@
+﻿<Application x:Class="SPIWpfApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SPIWpfApp"
+             xmlns:appConverter="clr-namespace:SPIWpfApp.AppConverter"
+             StartupUri="MainWindow.xaml" Startup="Application_Startup">
+    <Application.Resources>
+        <appConverter:HexConverter x:Key="AppHexConverter" />
+        <appConverter:HexConverterWithBits x:Key="AppHexConverterWithBits" />
+        <appConverter:AccessTypeConverter x:Key="AppAccessTypeConverter" />
+    </Application.Resources>
+</Application>
