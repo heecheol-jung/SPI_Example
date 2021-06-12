@@ -34,10 +34,10 @@ GND                     VCOM
 - Input COM port name and press Open button
 
 3.1.3. Write AD4111 registers(CH0 bipolar voltage)
-- Select CH0 in the datagrid and click Write button.
-  Select GPIOCON in the datagrid and click Write button.
-       :
-  Select IFMODE in the datagrid and click Write button.
+- Select CH0 in the datagrid and click Write button.<br/>
+  Select GPIOCON in the datagrid and click Write button.<br/>
+       :<br/>
+  Select IFMODE in the datagrid and click Write button.<br/>
 
 3.1.4. Read voltage value
 - Select Data in the datagrid and click Read button.
